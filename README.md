@@ -18,8 +18,10 @@ Implement Algorithms and Data-Structures to experience how Open-Source Community
 - Review peers' PRs are suggest them how the PR can be improved.
 - Code in respective directories according to the language you choose. Create new one if the programming language isn't present.
 
-For Communication: #fossusict on https://webchat.freenode.net/
-                   You may also create question issue, if you get no reply in a day or so. Mention `issue_type=question` in description
+## For Communication: 
+
+- #fossusict on https://webchat.freenode.net/
+- You may also create question issue, if you get no reply in a day or so. Mention `issue_type=question` in description
 
 ## Algorithm:
 
